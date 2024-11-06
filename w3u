@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", DISCOVERY CHANNEL
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/60.ts
+#EXTINF:-1, Canal X
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
