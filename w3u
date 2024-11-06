@@ -30,8 +30,12 @@ http://190.60.32.178:8178/play/a08p/index.m3u8
 http://190.60.32.178:8178/play/a02b/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", DISCOVERY ID
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/32.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", DISCOVERY THEATER
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", DISCOVERY SCIENCE
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/110.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", DISCOVERY TLC
+http://streamsy.online:2999/live/velous/OyEDBHzcaE/65.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", DISCOVERY THEATER
+http://streamsy.online:2999/live/velous/OyEDBHzcaE/56.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", HISTORY CHANNEL
 http://190.60.32.178:8178/play/a0aw/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", OXIGENO
