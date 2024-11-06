@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, LATINA
-http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/222812
+http://streamsy.online:2999/live/velous/OyEDBHzcaE/1767.m3u8
 #EXTINF:-1, ATV
 http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/222813
 #EXTINF:-1, PANAMERICANA
@@ -20,7 +20,7 @@ http://streamsy.online:2999/live/velous/OyEDBHzcaE/23.m3u8
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/62.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/46.m3u8
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:0, CARTOON NETWORK
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/50.m3u8
 
 
