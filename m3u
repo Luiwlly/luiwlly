@@ -8,14 +8,24 @@ http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/8437
 http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/222817
 #EXTINF:-1, AMERICA TV
 http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/222805
+#EXTINF:-1, AMERICA 2
+http://streamsy.online:2999/happy2024/newyear/1760
 #EXTINF:-1, AXN
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/21.m3u8
+http://191.52.214.5:8000/play/a01v/index.m3u8
+#EXTINF:-1, A&E
+http://191.52.214.5:8000/play/a01s/index.m3u8
+#EXTINF:-1, AMC
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1, CINE PREMIUN
+http://190.60.32.178:8178/play/a07f/index.m3u8
+#EXTINF:-1, CINE FAMILIAR
+http://190.60.32.178:8178/play/a08t/index.m3u8
 #EXTINF:-1, CINECANAL
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/73.m3u8
+http://190.60.32.178:8178/play/a02c/index.m3u8
 #EXTINF:-1, CINEMAX
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/82.m3u8
 #EXTINF:-1, COMEDY CENTRAL
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9637
+http://191.52.214.5:8000/play/a02b/index.m3u8
 #EXTINF:-1, SONY COMEDIA
 http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/148280
 #EXTINF:-1, AZ CINEMA
@@ -25,21 +35,23 @@ http://streamsy.online:2999/live/velous/OyEDBHzcaE/32.m3u8
 #EXTINF:-1, DISCOVERY TLC
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/65.m3u8
 #EXTINF:-1, DISCOVERY H&H
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/62.m3u8
+http://191.52.214.5:8000/play/a02i/index.m3u8
 #EXTINF:-1, GOLDEN
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/1624.m3u8
 #EXTINF:-1, GOLDEN EDGE
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/84.m3u8
 #EXTINF:-1, GOLDEN PLUS
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/75.m3u8
+http://191.52.214.5:8000/play/a03b/index.m3u8
 #EXTINF:-1, GOLDEN PREMIER
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/83.m3u8
+#EXTINF:-1, HTV
+http://190.60.32.178:8178/play/a042/index.m3u8
 #EXTINF:-1, HBO
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9667
+http://191.52.214.5:8000/play/a02z/index.m3u8
 #EXTINF:-1, HBO 2
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9671
+http://191.52.214.5:8000/play/a06o/index.m3u8
 #EXTINF:-1, HBO FAMILY
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9677
+http://191.52.214.5:8000/play/a06q/index.m3u8
 #EXTINF:-1, HBO MUNDI
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9683
 #EXTINF:-1, HBO PLUS
@@ -47,49 +59,53 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9686
 #EXTINF:-1, HBO SIGNATURE
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9695
 #EXTINF:-1, HBO XTREME
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9700
+http://191.52.214.5:8000/play/a03x/index.m3u8
 #EXTINF:-1, HISTORY2
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/289.m3u8
 #EXTINF:-1, HISTORY
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/57.m3u8
 #EXTINF:-1, FOX
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/19.m3u8
+http://191.52.214.5:8000/play/a02r/index.m3u8
 #EXTINF:-1, NICK
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/48.m3u8
+#EXTINF:-1, NICK
+http://streamsy.online:2999/happy2024/newyear/48
 #EXTINF:-1, DISNEY CHANNEL
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/46.m3u8
+http://190.60.32.178:8178/play/a0ap/index.m3u8
 #EXTINF:-1, CARTOON NETWORK
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/50.m3u8
+http://191.52.214.5:8000/play/a031/index.m3u8
 #EXTINF:-1, TOOMCAST
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/55.m3u8
+http://streamsy.online:2999/happy2024/newyear/55
 #EXTINF:-1, PARAMOUNT
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/1166.m3u8
+http://191.52.214.5:8000/play/a032/index.m3u8
 #EXTINF:-1, SONY
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/16.m3u8
+http://190.60.32.178:8178/play/a0ay/index.m3u8
 #EXTINF:-1, SPACE
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/79.m3u8
+http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1, STAR CHANNEL
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/15.m3u8
+http://191.52.214.5:8000/play/a02k/index.m3u8
 #EXTINF:-1, TCM
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/88.m3u8
 #EXTINF:-1, TNT
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/74.m3u8
+http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:-1, TNT NOVELAS
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/39.m3u8
 #EXTINF:-1, TNT SERIES
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/33.m3u8
-#EXTINF:-1, INIVERSAL CINEMA
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/1662.m3u8
-#EXTINF:-1, INIVERSAL CRIME
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/1663.m3u8
-#EXTINF:-1, INIVERSAL PREMIERE
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/1661.m3u8
-#EXTINF:-1, INIVERSAL REALITY
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/1664.m3u8
-#EXTINF:-1, INIVERSAL TV
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/18.m3u8
+http://191.52.214.5:8000/play/a059/index.m3u8
+#EXTINF:-1, ESTUDIO UNIVERSAL
+http://streamsy.online:2999/happy2024/newyear/86
+#EXTINF:-1, UNIVERSAL CINEMA
+http://streamsy.online:2999/happy2024/newyear/1662
+#EXTINF:-1, UNIVERSAL CRIME
+http://streamsy.online:2999/happy2024/newyear/1663
+#EXTINF:-1, UNIVERSAL PREMIERE
+http://streamsy.online:2999/happy2024/newyear/1661
+#EXTINF:-1, UNIVERSAL REALITY
+http://streamsy.online:2999/happy2024/newyear/1664
+#EXTINF:-1, UNIVERSAL TV
+http://streamsy.online:2999/happy2024/newyear/18
 #EXTINF:-1, WARNER
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/17.m3u8
+http://191.52.214.5:8000/play/a01u/index.m3u8
 
 
 
