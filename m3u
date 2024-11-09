@@ -16,6 +16,10 @@ http://190.60.32.178:8178/play/a0ax/index.m3u8
 http://190.60.32.178:8178/play/a00o/index.m3u8
 #EXTINF:-1, AMC
 http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1, CINE FAMILIAR
+http://190.60.32.178:8178/play/a08t/index.m3u8
+#EXTINF:-1, CINE PREMIUN
+http://190.60.32.178:8178/play/a07f/index.m3u8
 #EXTINF:-1, CINECANAL
 http://190.60.32.178:8178/play/a02c/index.m3u8
 #EXTINF:-1, CINEMAX
@@ -103,7 +107,9 @@ http://streamsy.online:2999/happy2024/newyear/1664
 #EXTINF:-1, UNIVERSAL TV
 http://streamsy.online:2999/happy2024/newyear/18
 #EXTINF:-1, WARNER
-http://191.52.214.5:8000/play/a01u/index.m3u8
+http://190.60.32.178:8178/play/a0az/index.m3u8
+#EXTINF:-1, REGUETON
+http://190.60.32.178:8178/play/a07a/index.m3u8
 
 
 
