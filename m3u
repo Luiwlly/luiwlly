@@ -26,10 +26,8 @@ http://190.60.32.178:8178/play/a02c/index.m3u8
 http://190.60.32.178:8178/play/a017/index.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 http://191.52.214.5:8000/play/a02b/index.m3u8
-#EXTINF:-1, AZ CINEMA
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/72.m3u8
 #EXTINF:-1, DISCOVERY ID
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/32.m3u8
+http://00322.xyz:8000/live/TwozDay0000/20398566489/132576.m3u8
 #EXTINF:-1, DISCOVERY TLC
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/65.m3u8
 #EXTINF:-1, DISCOVERY H&H
@@ -37,13 +35,13 @@ http://191.52.214.5:8000/play/a02i/index.m3u8
 #EXTINF:-1, DISCOVERY H&H2
 http://181.78.105.146:2000/play/a03g/index.m3u8
 #EXTINF:-1, GOLDEN
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/1624.m3u8
+http://00322.xyz:8000/live/TwozDay0000/20398566489/4288.m3u8
 #EXTINF:-1, GOLDEN EDGE
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/84.m3u8
+http://00322.xyz:8000/live/TwozDay0000/20398566489/3762.m3u8
 #EXTINF:-1, GOLDEN PLUS
 http://191.52.214.5:8000/play/a03b/index.m3u8
 #EXTINF:-1, GOLDEN PREMIER
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/83.m3u8
+http://00322.xyz:8000/live/TwozDay0000/20398566489/133789.m3u8
 #EXTINF:-1, HTV
 http://190.60.32.178:8178/play/a042/index.m3u8
 #EXTINF:-1, HBO
@@ -63,9 +61,9 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9695
 #EXTINF:-1, HBO XTREME
 http://191.52.214.5:8000/play/a03x/index.m3u8
 #EXTINF:-1, HISTORY2
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/289.m3u8
+http://190.60.32.178:8178/play/a08p/index.m3u8
 #EXTINF:-1, HISTORY
-http://streamsy.online:2999/live/velous/OyEDBHzcaE/57.m3u8
+http://190.60.32.178:8178/play/a0aw/index.m3u8
 #EXTINF:-1, FOX
 http://191.52.214.5:8000/play/a02r/index.m3u8
 #EXTINF:-1, NICK
