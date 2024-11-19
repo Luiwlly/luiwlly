@@ -11,9 +11,9 @@ http://mastertv.pro:8080/56993137552wspztv/170622ztv/1334
 #EXTINF:-1, AMERICA 2
 http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/248
 #EXTINF:-1, AXN
-http://190.60.32.178:8178/play/a0ax/index.m3u8
+http://181.78.105.146:2000/play/a05y/index.m3u8
 #EXTINF:-1, A&E
-http://190.60.32.178:8178/play/a00o/index.m3u8
+hhttp://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1, AMC
 http://191.52.214.5:8000/play/a02x/index.m3u8
 #EXTINF:-1, CINE FAMILIAR
@@ -24,8 +24,6 @@ http://190.60.32.178:8178/play/a07f/index.m3u8
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9628
 #EXTINF:-1, CINEMAX
 http://190.60.32.178:8178/play/a017/index.m3u8
-#EXTINF:-1, COMEDY CENTRAL
-http://191.52.214.5:8000/play/a02b/index.m3u8
 #EXTINF:-1, DISCOVERY TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
 #EXTINF:-1, DISCOVERY H&H
@@ -42,18 +40,16 @@ http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65223
 http://190.60.32.178:8178/play/a042/index.m3u8
 #EXTINF:-1, HBO
 http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/139
-#EXTINF:-1, HBO
-http://191.52.214.5:8000/play/a02z/index.m3u8
 #EXTINF:-1, HBO 2
 http://191.52.214.5:8000/play/a06o/index.m3u8
 #EXTINF:-1, HBO 2mas
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/327
 #EXTINF:-1, HBO FAMILY
-http://191.52.214.5:8000/play/a06q/index.m3u8
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9677
 #EXTINF:-1, HBO MUNDI
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9683
 #EXTINF:-1, HBO PLUS
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/145
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9687
 #EXTINF:-1, HBO SIGNATURE
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9695
 #EXTINF:-1, HBO XTREME
