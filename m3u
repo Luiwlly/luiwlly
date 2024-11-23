@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1, LATINA
-http://mastertv.pro:8080/56993137552wspztv/170622ztv/1366
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/8450.m3u8
 #EXTINF:-1, ATV
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/253
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/8438.m3u8
 #EXTINF:-1, PANAMERICANA
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/1376
 #EXTINF:-1, AMERICA TV
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/1334
-#EXTINF:-1, AMERICA 2
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/248
+#EXTINF:-1, AMERICA TV2
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/74885.m3u8
 #EXTINF:-1, AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
 #EXTINF:-1, A&E
@@ -31,11 +31,11 @@ http://181.78.105.146:2000/play/a03g/index.m3u8
 #EXTINF:-1, GOLDEN
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9656
 #EXTINF:-1, GOLDEN EDGE
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65217
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9658.m3u8
 #EXTINF:-1, GOLDEN PLUS
 http://191.52.214.5:8000/play/a03b/index.m3u8
-#EXTINF:-1, GOLDEN PREM
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65223
+#EXTINF:-1, GOLDEN PREMIER
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9665.m3u8
 #EXTINF:-1, HTV
 http://190.60.32.178:8178/play/a042/index.m3u8
 #EXTINF:-1, HBO
@@ -63,7 +63,7 @@ http://190.60.32.178:8178/play/a01q/index.m3u8
 #EXTINF:-1, NICK
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1, NICK2
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/390
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9871.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9866
 #EXTINF:-1, CARTOON NETWORK
@@ -89,27 +89,25 @@ http://191.52.214.5:8000/play/a059/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65199
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9756.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA2
 http://streamsy.online:2999/happy2024/newyear/1662
 #EXTINF:-1, UNIVERSAL CRIME
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65190
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9761.m3u8
 #EXTINF:-1, UNIVERSAL PREMIERE
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65208
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9765.m3u8
 #EXTINF:-1, UNIVERSAL REALITY
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/65210
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9770.m3u8
 #EXTINF:-1, UNIVERSAL TV
 http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1, WARNER
 http://190.60.32.178:8178/play/a0az/index.m3u8
 #EXTINF:-1, REGUETON
 http://190.60.32.178:8178/play/a07a/index.m3u8
-#EXTINF:-1, RANMA
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/250530
 #EXTINF:-1, KENAL Y KELL
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/250502
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/94999.m3u8
 #EXTINF:-1, BILLY Y MANDY
-http://joseprem5.chocoplus.xyz:8080/56930553646wspzero/010821zero/250566
+http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/95022.m3u8
 #EXTINF:-1, CATDOG
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/94989
 
