@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1, LATINA 1
-http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/8450.m3u8
+http://bantel-cdn4.iptvperu.tv:1935/aswetr/latina.stream/playlist.m3u8
 #EXTINF:-1, ATV
 http://ultrapremium.cloud:8080/43kuza97pa55ke48/29wuma93weme45/301
 #EXTINF:-1, PANAMERICANA
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/1376
 #EXTINF:-1, AMERICA TV
-http://mastertv.pro:8080/56993137552wspztv/170622ztv/1334
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:-1, AMERICA TV2
-http://tvlatino.club:2082/CesarPerez2025/KQjaRngqsgsr/6723
+http://mastertv.pro:8080/56993137552wspztv/170622ztv/1334
 #EXTINF:-1, AMERICA TV3
 http://ultrapremium.cloud:8080/43kuza97pa55ke48/29wuma93weme45/249
 #EXTINF:-1, AXN
