@@ -6,8 +6,6 @@ http://bantel-cdn4.iptvperu.tv:1935/aswetr/latina.stream/playlist.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2135260081674d7711a5add
 #EXTINF:-1, ATV
 http://bantel-cdn4.iptvperu.tv:1935/aswetr/atv.stream/playlist.m3u8
-#EXTINF:-1, ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, PANAMERICANA
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/1376
 #EXTINF:-1, AMERICA TV
@@ -42,8 +40,6 @@ http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9656
 http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9658.m3u8
 #EXTINF:-1, GOLDEN PLUS
 http://191.52.214.5:8000/play/a03b/index.m3u8
-#EXTINF:-1, GOLDEN PREMIER
-https://live.sdfgnksbounce.com:8080/MzguMjUzLjE0NS4xMzM=/75_.m3u8?token=-11V-c5bBW7BMqe1-gZoAQ&expires=1733183642
 #EXTINF:-1, GOLDEN PREMIER2
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/453359
 #EXTINF:-1, HTV
