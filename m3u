@@ -43,9 +43,9 @@ http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9658.m3u8
 #EXTINF:-1, GOLDEN PLUS
 http://191.52.214.5:8000/play/a03b/index.m3u8
 #EXTINF:-1, GOLDEN PREMIER
-http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9665.m3u8
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/200948
 #EXTINF:-1, HTV
-http://190.60.32.178:8178/play/a042/index.m3u8
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2098837
 #EXTINF:-1, HBO
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/326
 #EXTINF:-1, HBO 2
@@ -66,8 +66,6 @@ http://ultrapremium.cloud:8080/43kuza97pa55ke48/29wuma93weme45/156
 http://190.60.32.178:8178/play/a08p/index.m3u8
 #EXTINF:-1, HISTORY
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1, FOX1
-http://190.60.32.178:8178/play/a01q/index.m3u8
 #EXTINF:-1, NICK
 http://181.78.105.146:6060/play/a03w/index.m3u8
 #EXTINF:-1, NICKELODEON
@@ -76,8 +74,6 @@ http://181.78.105.146:2000/play/a014/index.m3u8
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9866
 #EXTINF:-1, CARTOON NETWORK
 http://191.52.214.5:8000/play/a031/index.m3u8
-#EXTINF:-1, TOOMCAST
-http://streamsy.online:2999/happy2024/newyear/55
 #EXTINF:-1, PARAMOUNT NEW
 http://181.78.105.146:6060/play/a00e/index.m3u8
 #EXTINF:-1, SONY
@@ -85,7 +81,7 @@ http://181.78.105.146:6060/play/a02x/index.m3u8
 #EXTINF:-1, SPACE
 http://190.60.32.178:8178/play/a0b0/index.m3u8
 #EXTINF:-1, STAR CHANNEL
-http://190.60.32.178:8178/play/a0av/index.m3u8
+http://181.78.105.146:6060/play/a03y/index.m3u8
 #EXTINF:-1, TCM
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/88.m3u8
 #EXTINF:-1, TNT
@@ -93,15 +89,13 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1, TNT NOVELAS
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/39.m3u8
 #EXTINF:-1, TNT SERIES
-http://191.52.214.5:8000/play/a059/index.m3u8
+http://181.78.105.146:6060/play/a01r/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 http://181.78.105.146:6060/play/a04b/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/studiouniversal/chunks.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA
 http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9756.m3u8
-#EXTINF:-1, UNIVERSAL CINEMA2
-http://streamsy.online:2999/happy2024/newyear/1662
 #EXTINF:-1, UNIVERSAL CRIME
 http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9761.m3u8
 #EXTINF:-1, UNIVERSAL PREMIERE
