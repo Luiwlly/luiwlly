@@ -51,7 +51,7 @@ http://191.52.214.5:8000/play/a06o/index.m3u8
 #EXTINF:-1, HBO 2mas
 http://mastertv.pro:8080/56993137552wspztv/170622ztv/327
 #EXTINF:-1, HBO FAMILY
-http://181.78.105.146:6060/play/a00k/index.m3u8
+http://107.150.52.130:80/auth/VvxFXFBrM5NtIJIwZV7x1sJdC6kCaY_xi4PkQvlXHUzp6t-BA-1Pit2W-6CHtNIuGwFXEaH8G31hAdvKUzmqTTI0ZZcii3GBMNKE2xFqK2wr9yQxpuNYZg6kDY6R4lmal9gaLJcgmXM6UBjBp3Wye0eB2OE6M7YKd9z3-Xo7FJR0Yzz4J5I6eueWEHDr4O9PeUtNzfpopJE5WCpoul1AeFviFL8yzPwLVTh843EiOs-1YmtfunCLFW4ePGXQX1epEKfIDLm7CtyBvdbR_89IQYmnz0xAqK9L6J4bcE8ba4TzIardb63jgELccbWh-scZkIYDk94-bSWKhhiGnnEWf6pEaPqyPc6bIfECFhMp0e1XDzgWRqydbDgxP9vK-E0wd4P1f4L0C6pxZWVvBWtSbZueR69Qpc5ogG66plvd4SL98Y__uI-1GY_xcwTxUCpFlJhCndxk9YJ9dHbZVKcgMAyLP-Mq9mLyLILodqhGocx03VMS2BQ8nUmrUG0E_mksN0zaAzqwXifwLigUAdQneCu0N9BM9a1qGCKFsQCZKrLiOuFUXlMGbXEExUo0f6ZJ3cPjmkrmcncQZ-CpQJAbiCZI_lw5GMiK7DRe6PL33rHb3l5XXoZLH4eMrnUcquTT9DEQNdhg6AvYqOBD2YUtwRR7ixu0eN-FsNqWF42JOVfPrwt1Z2gnaMyxeq_RLBtK
 #EXTINF:-1, HBO MUNDI
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9683
 #EXTINF:-1, HBO PLUS
@@ -63,24 +63,23 @@ http://ultrapremium.cloud:8080/43kuza97pa55ke48/29wuma93weme45/156
 #EXTINF:-1, HISTORY
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1, NICK
-#EXTINF:-1, NICK
-https://live.sdfgnksbounce.com:8080/MzguMjUzLjE0NS4xMzM=/110_.m3u8?token=GLe7V-pLOtlJHkKmJkDcnQ&expires=1733650726
+http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1, NICKELODEON
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9866
 #EXTINF:-1, CARTOON NETWORK
-http://191.52.214.5:8000/play/a031/index.m3u8
+http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1, TOONCAST
 http://181.78.105.146:6060/play/a02v/index.m3u8
 #EXTINF:-1, PARAMOUNT NEw
-http://181.78.105.146:6060/play/a00e/index.m3u8
+http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1, SONY
-http://181.78.105.146:6060/play/a02x/index.m3u8
+http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1, SPACE
-http://190.60.32.178:8178/play/a0b0/index.m3u8
+http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1, STAR CHANNEL
-http://181.78.105.146:6060/play/a03y/index.m3u8
+http://162.249.169.58:80/auth/PYGm67AxjmRTve2ioAzeO3PqWoYOfYUWUvehdkKANWXPu3ta9zFfoK0pzAcV0R_U6P0SGCQnPhKgVZ8izhBOoLmqznwaR65kilLrLkUGPksnE5XN7j-4dbMl5ZjURNlNyyZ_oLRXl38O8JRcznacSQO4yhuvPPaLbL2MnFmBs8wI9gdm_zM4i1EOuXR2IKs5Zat7DKrVgAEs49CgKxYAg27LnPj0wH0N-3fI4hYreBjhmsSMxdvkUZmW4jPuTlAD5gj9IhtAxMiahPsHSZMYL9HJYwo4hgKIY194NYl-zJOGhNWXVAfVbV3JE9A8cKqqwblqiSlGHg3Y0WvfcRDdE3S5SrCvqV7LfTLRFuZtZcn2bSQzfthnBbtYbqwycu4P5NkTknzClqUEIxiY7IsuqgEeHOoziBAP587Wid319waDrOS0CfaOZbkOZ7ADyU_zhLm3R5DFQvZ43Cq09EMyAkDRlxW9BR4PvsaW65cYTUWwfRtkLrc6AtM8GCzz4Jno1jrz_vWTjPp3XcBuu2tYnv00q6YWWDfD123NvVnVFe6C1hjWBlYtcX-T4NjsgSSH_o0yjbQKG8GhFcWVXC_J2nUXRXW1s6FCT5iSvT5gNl_bI75HDIRF1PUXWvmjHggeJuqSbK0wGirjWsJDHLbJOeMn8y7MhcxAaN7l_G55_IaBn4HQzEnYmUSu2sji5-vm
 #EXTINF:-1, TCM
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/88.m3u8
 #EXTINF:-1, TNT
@@ -88,9 +87,9 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1, TNT NOVELAS
 http://streamsy.online:2999/live/velous/OyEDBHzcaE/39.m3u8
 #EXTINF:-1, TNT SERIES
-http://181.78.105.146:6060/play/a01r/index.m3u8
+http://181.78.105.146:2000/play/a00m/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
-http://181.78.105.146:6060/play/a04b/index.m3u8
+http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/studiouniversal/chunks.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA
@@ -106,7 +105,7 @@ http://tv.masterplaytv.club:8080/live/viverosvaleria1/a9p2JNeWZQ/9770.m3u8
 #EXTINF:-1, UNIVERSAL TV
 http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1, WARNER
-http://190.60.32.178:8178/play/a0az/index.m3u8
+http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1, REGUETON
 http://190.60.32.178:8178/play/a07a/index.m3u8
 #EXTINF:-1, BILLY Y MANDY
