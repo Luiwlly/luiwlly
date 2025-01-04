@@ -98,6 +98,8 @@ http://38.224.222.34:8000/play/a00i
 http://181.78.105.146:6060/play/a02x/index.m3u8
 #EXTINF:-1, SONY MOVIE
 http://181.78.105.146:6060/play/a02l/index.m3u8
+#EXTINF:-1, SONY MOVIE2
+http://38.191.90.2:8000/play/a02o/index.m3u8
 #EXTINF:-1, SPACE
 http://181.78.105.146:6060/play/a04n/index.m3u8
 #EXTINF:-1, STAR CHANNEL
