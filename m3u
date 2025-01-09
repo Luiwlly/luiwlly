@@ -95,7 +95,7 @@ http://181.78.105.146:6060/play/a02l/index.m3u8
 #EXTINF:-1, SONY MOVIE2
 http://38.191.90.2:8000/play/a02o/index.m3u8
 #EXTINF:-1, SPACE
-http://181.78.105.146:6060/play/a04n/index.m3u8
+http://190.60.32.178:8178/play/a0b0/index.m3u8
 #EXTINF:-1, STAR CHANNEL
 http://181.78.105.146:6060/play/a03y/index.m3u8
 #EXTINF:-1, TCM
@@ -115,7 +115,7 @@ http://38.224.222.34:8000/play/a03l
 #EXTINF:-1, UNIVERSAL CRIME
 http://181.78.105.146:6060/play/a03s/index.m3u8
 #EXTINF:-1, UNIVERSAL PREMIERE
-http://181.78.105.146:6060/play/a03p/index.m3u8
+http://38.191.90.2:8000/play/a04o/index.m3u8
 #EXTINF:-1, UNIVERSAL TV
 http://181.78.105.146:6060/play/a046/index.m3u8
 #EXTINF:-1, WARNER
