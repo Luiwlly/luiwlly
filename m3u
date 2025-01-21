@@ -5,8 +5,10 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1, ATV
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/8437
 #EXTINF:-1, AMERICA TV
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/67584
+http://200.60.124.19:29000/play/a04r/index.m3u8
 #EXTINF:-1, AMERICA TV2
+http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/67584
+#EXTINF:-1, AMERICA TV3
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/8433
 #EXTINF:-1, AXN
 http://38.191.90.2:8000/play/a05s/index.m3u8
