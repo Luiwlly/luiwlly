@@ -101,6 +101,8 @@ http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9713
 #EXTINF:-1, SONY MOVIE2
 http://181.78.105.146:6060/play/a02l/index.m3u8
 #EXTINF:-1, SPACEE
+http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/31123
+#EXTINF:-1, SPACE1
 http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1, STAR CHANNEL
 http://200.60.124.19:29000/play/a01r/index.m3u8
@@ -110,11 +112,17 @@ http://181.78.105.146:6060/play/a03y/index.m3u8
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31128
 #EXTINF:-1, ULTRACINE
 http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/303744
-#EXTINF:-1, TNT
+EXTINF:-1, TNT
+http://181.78.105.146:6060/play/a01z/index.m3u8
+#EXTINF:-1, TNT1
 http://200.60.124.19:29000/play/a01u/index.m3u8
 #EXTINF:-1, TNT NOVELAS
 http://200.60.124.19:29000/play/a06r/index.m3u8
 #EXTINF:-1, TNT SERIES
+http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/322827
+#EXTINF:-1, TNT SERIES1
+http://181.78.105.146:6060/play/a01r/index.m3u8
+#EXTINF:-1, TNT SERIES1
 http://200.60.124.19:29000/play/a0b0/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 http://181.78.105.146:2000/play/a04o/index.m3u8
