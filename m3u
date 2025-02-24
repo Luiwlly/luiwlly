@@ -127,11 +127,7 @@ http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1, UNIVERSAL CINEMA
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/290135
 #EXTINF:-1, UNIVERSAL CRIME
-http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9761
-#EXTINF:-1, UNIVERSAL CRIME2
 http://181.78.105.146:6060/play/a03s/index.m3u8
-#EXTINF:-1, UNIVERSAL PREMIERE
-http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9765
 #EXTINF:-1, UNIVERSAL PREMIERE2
 http://181.78.105.146:6060/play/a03p/index.m3u8
 #EXTINF:-1, UNIVERSAL TV
@@ -144,8 +140,6 @@ http://191.52.214.5:8000/play/a01u/index.m3u8
 http://181.78.105.146:6060/play/a02y/index.m3u8
 #EXTINF:-1, REGUETON
 http://190.60.32.178:8178/play/a07a/index.m3u8
-#EXTINF:-1, CATDOG
-http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/94989
 #EXTINF:-1, PICAPIEDRAS
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/406758
 #EXTINF:-1, fam In
