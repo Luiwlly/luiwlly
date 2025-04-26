@@ -73,7 +73,7 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31148
 #EXTINF:-1, NICK
 http://200.60.124.19:29000/play/a01i/index.m3u8
 #EXTINF:-1, NICKELODEON
-http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/31119
+http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/393903
 #EXTINF:-1, DISNEY CHANNEL
 http://200.60.124.19:29000/play/a010/index.m3u8
 #EXTINF:-1, DISNEY CHANNEL2
@@ -84,23 +84,27 @@ http://200.60.124.19:29000/play/a01t/index.m3u8
 http://200.60.124.19:29000/play/a0c1/index.m3u8
 #EXTINF:-1, PARAMOUNT NEw1
 http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/31122
+#EXTINF:-1, FOX
+http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/34101
 #EXTINF:-1, FOX1
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34101
 #EXTINF:-1, SONY
 http://200.60.124.19:29000/play/a026/index.m3u8
-#EXTINF:-1, SONY2
+#EXTINF:-1, SONY1
+http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/32339
+#EXTINF:-1, SONY11
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/32339
 #EXTINF:-1, SONY MOVIE
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9713
-#EXTINF:-1, SONY MOVIE2
-http://181.78.105.146:6060/play/a02l/index.m3u8
 #EXTINF:-1, SPACEE
 http://200.60.124.19:29000/play/a028/index.m3u8
 #EXTINF:-1, SPACE1
 http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1, STAR CHANNEL
 http://200.60.124.19:29000/play/a01r/index.m3u8
-#EXTINF:-1, STAR CHANNEL2
+EXTINF:-1, STAR CHANNEL1
+http://app.tecnomolly.com:8080/Holyokecarmen90/tyMcBwcMPTG8/33980
+#EXTINF:-1, STAR CHANNEL11
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/33980
 #EXTINF:-1, TCM
 http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/f07f02cf-8df2-43b7-83a5-7c64d6c83da3.m3u8
