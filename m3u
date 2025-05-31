@@ -88,8 +88,10 @@ http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/bac486f2-0417-4f2e-
 http://200.60.124.19:29000/play/a01i/index.m3u8
 #EXTINF:-1, NICKELODEON
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/393903
-#EXTINF:-1, DISNEY CHANNELprincesa
-http://planettvweb.com:8091/orlan55887/558875/16424
+#EXTINF:-1, DISNEY CHANNELP
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/95622
+#EXTINF:-1, DISNEY CHANNELP2
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/95623
 #EXTINF:-1, DISNEY CHANNEL DUbujos
 http://planettvweb.com:8091/orlan55887/558875/20349
 #EXTINF:-1, CARTOON NETWORK
@@ -155,10 +157,10 @@ http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/94989
 #EXTINF:-1, PICAPIEDRAS
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/110033
 #EXTINF:-1, fam In
-http://tvlatino.club:2082/LOKO2025peru/g8JdN9czNKD6/551308
-#EXTINF:-1, fam In2
-http://tvlatino.club:2082/live/pandtvon300765user/pandtvrun300765/551308.m3u8
-#EXTINF:-1, fam In3
 http://zeuspro.xyz:8080/WilbertV7936/dKZbGQszc7/96699
+#EXTINF:-1, fam In2
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/96699
+#EXTINF:-1, fam In3
+http://tvlatino.club:2082/LOKO2025peru/g8JdN9czNKD6/551308
 #EXTINF:-1, destino
 http://app.tecnomolly.com:8080/movie/Chalo/ZmGSWfmewTRg/471942.mp4
