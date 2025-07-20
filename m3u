@@ -69,7 +69,7 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/39062
 #EXTINF:-1, HBO FAMILY2
 http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/65778fcf-611c-476a-92f4-5d9942e7f78c.m3u8
 #EXTINF:-1, HBO MUNDI
-http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/0297ccc1-c533-4ffa-b47f-7df80be03594.m3u8
+http://152.231.29.139:8000/play/a08p/index.m3u8
 #EXTINF:-1, HBO MUNDI2
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31633
 #EXTINF:-1, HBO PLUS
@@ -103,7 +103,7 @@ http://planettvweb.com:8091/orlan55887/558875/11750
 #EXTINF:-1, PARAMOUNT =
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31122
 #EXTINF:-1, PARAMOUNT NEw1
-http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/c12c10ef-b485-40c7-9641-b52c6c704cbc.m3u8
+http://152.231.29.139:8000/play/a06g/index.m3u8
 #EXTINF:-1, FOX
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34101
 #EXTINF:-1, SONY
@@ -151,7 +151,7 @@ http://177.234.230.206:8011/play/a0or/index.m3u8
 #EXTINF:-1, WARNER1
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/32510
 #EXTINF:-1, WARNER2
-http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/0c7311ac-9b3f-406d-ace8-27d8f177cc30.m3u8
+http://152.231.29.139:8000/play/a0d8/index.m3u8
 #EXTINF:-1, catdog
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/94989
 #EXTINF:-1, PICAPIEDRAS
@@ -160,8 +160,8 @@ http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/110033
 http://tvlatino.club:2082/clientexfe1001/WQDcx9SStETz/551308.ts
 #EXTINF:-1, fam In2
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/96699
-#EXTINF:-1, megan2
-http://app.tecnomolly.com:8080/movie/Chalo/ZmGSWfmewTRg/479234.mp4
+#EXTINF:-1, mundo Jhon WIck
+https://pomf2.lain.la/f/5ntmzr3w.mp4?download=1
 #EXTINF:-1, mounter
 http://app.tecnomolly.com:8080/movie/Chalo/ZmGSWfmewTRg/399097.mp4
 #EXTINF:-1, jimmy
