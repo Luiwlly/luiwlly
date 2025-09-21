@@ -7,10 +7,8 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/282987
 #EXTINF:-1, PANAMERICANA
 http://mundo2.pro:80/live/ALDETECHNALDO45SP/1023ALDETECH03SP/152aec9f-b56a-45e3-a2b9-a72cb608eca8.m3u8
 #EXTINF:-1, AMERICA TV
-http://classic.wolddress.com:8080/Oenfnf72737/Enebf83847473/306667
-#EXTINF:-1, AMERICA TV2
 http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/8433
-#EXTINF:-1, AMERICA TV3
+#EXTINF:-1, AMERICA TV2
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/67584
 EXTINF:-1, AMERICA TV4
 http://tvpremiund.ddns.me:2082/janeisabel/KrgmnLCJgsjH/30721
@@ -21,11 +19,11 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31318
 #EXTINF:-1, DISTRITO COMEDIA1
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/33420
 #EXTINF:-1, CINECANAL
-http://177.234.230.206:8011/play/a0oe/index.m3u8
+http://148.222.228.3:9000/play/a09l/index.m3u8
 #EXTINF:-1, CINECANAL2
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/33034
 #EXTINF:-1, CINEMAX
-http://177.234.230.206:8011/play/a0nc/index.m3u8
+http://148.222.228.3:9000/play/a06p/index.m3u8
 #EXTINF:-1, CINEMAX2
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322780
 #EXTINF:-1, DISCOVERY H&H
@@ -55,7 +53,7 @@ http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9665
 #EXTINF:-1, TELENOVELAS
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31132
 #EXTINF:-1, TELENOVELAS2
-http://177.234.230.206:8011/play/a0b9/index.m3u8
+http://148.222.228.3:9000/play/a051/index.m3u8
 #EXTINF:-1, HBO
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9667
 #EXTINF:-1, HBO1
@@ -65,9 +63,7 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34432
 #EXTINF:-1, HBO FAMILY
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/39062
 #EXTINF:-1, HBO FAMILY2
-http://177.234.230.206:8011/play/a0o7/index.m3u8
-#EXTINF:-1, HBO MUNDI
-http://152.231.29.139:8000/play/a08p/index.m3u8
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/102.ts
 #EXTINF:-1, HBO MUNDI2
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31633
 #EXTINF:-1, HBO PLUS
@@ -77,11 +73,11 @@ http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9660
 #EXTINF:-1, HBO XTREME
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322823
 #EXTINF:-1, HBO XTREME2
-http://177.234.230.206:8011/play/a0p5/index.m3u8
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9700x
 #EXTINF:-1, BITE
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31148
-TINF:-1, NICK
-http://177.234.230.206:8011/play/a0km/index.m3u8
+#EXTINF:-1, NICK
+http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9871
 #EXTINF:-1, NICKELODEON
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/393903
 #EXTINF:-1, DISNEY CHANNELP11
@@ -103,15 +99,13 @@ http://152.231.29.139:8000/play/a06g/index.m3u8
 #EXTINF:-1, FOX
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34101
 #EXTINF:-1, SONY
-http://177.234.230.206:8011/play/a0of/index.m3u8
+http://148.222.228.3:9000/play/a09f/index.m3u8
 #EXTINF:-1, SONY1
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/32339
 #EXTINF:-1, SONY MOVIE
 http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/9713
-#EXTINF:-1, SONY MOVIE1
-http://177.234.230.206:8011/play/a0n6/index.m3u8
 #EXTINF:-1, SPACEE
-http://177.234.230.206:8011/play/a0oj/index.m3u8
+http://148.222.228.3:9000/play/a00g/index.m3u8
 #EXTINF:-1, SPACE1
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31123
 #EXTINF:-1, STAR CHANNEL
@@ -128,8 +122,6 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31128
 http://177.234.230.206:8011/play/a0od/index.m3u8
 #EXTINF:-1, TNT
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322828
-#EXTINF:-1, TNT SERIES
-http://177.234.230.206:8011/play/a0ou/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31124
 #EXTINF:-1, UNIVERSAL CINEMA
@@ -143,7 +135,7 @@ http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/303744
 #EXTINF:-1, ultra clasico
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/303743
 #EXTINF:-1, UNIVERSAL TV
-http://177.234.230.206:8011/play/a0or/index.m3u8
+http://148.222.228.3:9000/play/a09h/index.m3u8
 #EXTINF:-1, WARNER1
 http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/32510
 #EXTINF:-1, WARNER2
@@ -166,10 +158,6 @@ http://app.tecnomolly.com:8080/movie/Chalo/ZmGSWfmewTRg/340295.mp4
 http://app.tecnomolly.com:8080/movie/Chalo/ZmGSWfmewTRg/450249.mp4
 #EXTINF:-1, kong vs gozilla nuevo imperio
 http://app.tecnomolly.com:8080/movie/Chalo/ZmGSWfmewTRg/398304.mp4
-#EXTINF:-1, malefica
-http://zeuspro.xyz:8080/movie/WilbertV7936/dKZbGQszc7/13724.mkv
-#EXTINF:-1, malefica2
-http://zeuspro.xyz:8080/movie/WilbertV7936/dKZbGQszc7/13725.mkv
 #EXTINF:-1, conjuro4
 http://cineplay.vip:2086/movie/Jlc2503191/xVVU4LTfzkzd/469410.mp4
 #EXTINF:-1, hercules
