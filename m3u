@@ -10,6 +10,8 @@ http://rlatinop.com:8880/DigitalService021j/19733559/429006
 http://rlatinop.com:8880/DigitalService021j/19733559/428948
 #EXTINF:-1, AMERICA TV22
 https://live-evg20.tv360.bitel.com.pe/vq-iJdrCR8DnSL1ZdouKlw/1780881462/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
+#EXTINF:-1, TLENOVELAS
+http://181.224.200.5:2277/play/a0d0/index.m3u8
 #EXTINF:-1, nickelodeon
 http://181.224.200.5:2277/play/a0bm/index.m3u8
 #EXTINF:-1, CARTOONNEW
@@ -46,8 +48,6 @@ http://168.228.44.241:9998/play/a04o/index.m3u8
 http://181.224.200.5:2277/play/a011/index.m3u8
 #EXTINF:-1, golden edge
 http://181.224.200.5:2277/play/a0bd/index.m3u8
-#EXTINF:-1, TLENOVELAS
-http://181.224.200.5:2277/play/a0d0/index.m3u8
 #EXTINF:-1, paramount
 http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTINF:-1, SONY
