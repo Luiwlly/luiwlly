@@ -1,131 +1,65 @@
 #EXTM3U
 
 #EXTINF:-1, LATINA1
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/8450
+http://miotv.cc:8080/RESTREAMCRUEL/T7464747/237320
 #EXTINF:-1, panamericana
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/8465
+http://181.224.200.5:2277/play/kkio/index.m3u8
+#EXTINF:-1, ATV
+http://181.224.200.5:2277/play/3232/index.m3u8
 #EXTINF:-1, AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/DdeSVYW3tjDMwwz7t0jLpw/1775615928/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
+http://181.224.200.5:2277/play/a0dc/index.m3u8
 #EXTINF:-1, AMERICA TV22
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/8433
+https://live-evg20.tv360.bitel.com.pe/vq-iJdrCR8DnSL1ZdouKlw/1780881462/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 #EXTINF:-1, nickelodeon
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/9879
+http://181.224.200.5:2277/play/a0bm/index.m3u8
+#EXTINF:-1, CARTOONNEW
+http://168.228.44.241:9998/play/a015/index.m3u8
 #EXTINF:-1, bob esponja
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/169536
-#EXTINF:-1, drek y josh
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/173429
+http://redworld.pro:8880/hUAFFjcXqDWC/2bGEzEqSEshm/526326
 #EXTINF:-1, AXN
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/9624
-#EXTINF:-1, COMEDIA CENTRAL
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/9644
-#EXTINF:-1, DISTRITO COMEDIA1
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/33420
-#EXTINF:-1, CINECANAL
-http://148.222.228.3:9000/play/a09l/index.m3u8
-#EXTINF:-1, CINECANAL2
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/33034
-#EXTINF:-1, CINEMAX
-http://148.222.228.3:9000/play/a06p/index.m3u8
-#EXTINF:-1, CINEMAX2
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322780
-#EXTINF:-1, DISCOVERY H&H
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322817
-#EXTINF:-1, GOLDEN
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34164
-#EXTINF:-1, GOLDEN EDGE
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31463
-#EXTINF:-1, GOLDEN PLUS
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34221
-#EXTINF:-1, GOLDEN PREMIER
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34308
-#EXTINF:-1, GOLDEN PREMIER2
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31587
-#EXTINF:-1, TELENOVELAS
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31132
-#EXTINF:-1, TELENOVELAS2
-http://148.222.228.3:9000/play/a051/index.m3u8
-#EXTINF:-1, HBO1
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322820
-#EXTINF:-1, HBO22
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34432
+http://181.224.200.5:2277/play/a01h/index.m3u8
+#EXTINF:-1, Diney
+http://181.224.200.5:2277/play/a014/index.m3u8
+#EXTINF:-1, cinecanal
+http://181.224.200.5:2277/play/a013/index.m3u8
+#EXTINF:-1, HBO EXTREMO
+http://168.228.44.241:9998/play/a0ce/index.m3u8
 #EXTINF:-1, HBO FAMILY
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/39062
-#EXTINF:-1, HBO MUNDI2
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31633
+http://168.228.44.241:9998/play/a019/index.m3u8
+#EXTINF:-1, HBO
+http://168.228.44.241:9998/play/a016/index.m3u8
 #EXTINF:-1, HBO PLUS
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/9685
-#EXTINF:-1, HBO XTREME
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322823
-#EXTINF:-1, BITE
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31148
-#EXTINF:-1, NICK
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/9879
-#EXTINF:-1, NICKELODEON
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/393903
-#EXTINF:-1, DISNEY CHANNELP11
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/95623
-#EXTINF:-1, DISNEY CHANNELP211
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/95622
-#EXTINF:-1, DISNEY CHANNELGO
-http://vmi1839636.contaboserver.net:2082/stkmarm/2020/49822
-#EXTINF:-1, DISNEY CHANNEL DUbujos
-http://planettvweb.com:8091/orlan55887/558875/20349
-#EXTINF:-1, CARTOON NETWORK
-http://38.44.109.41:8003/play/a03d/index.m3u8
-#EXTINF:-1, CARTOON NETWORK1
-http://planettvweb.com:8091/orlan55887/558875/11750
-#EXTINF:-1, PARAMOUNT =
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31122
-#EXTINF:-1, PARAMOUNT NEw1
-http://152.231.29.139:8000/play/a06g/index.m3u8
+http://168.228.44.241:9998/play/a018/index.m3u8
+#EXTINF:-1, HBO 2
+http://168.228.44.241:9998/play/a017/index.m3u8
+#EXTINF:-1, ESPN2
+http://181.224.200.5:2277/play/a02c/index.m3u8
+#EXTINF:-1, ESPN3
+http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:-1, ESPN
+http://181.224.200.5:2277/play/aa07/index.m3u8
 #EXTINF:-1, FOX
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/34101
+http://181.224.200.5:2277/play/a011/index.m3u8
+#EXTINF:-1, golden edge
+http://181.224.200.5:2277/play/a0bd/index.m3u8
+#EXTINF:-1, TLENOVELAS
+http://181.224.200.5:2277/play/a0d0/index.m3u8
+#EXTINF:-1, paramount
+http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTINF:-1, SONY
-http://148.222.228.3:9000/play/a09f/index.m3u8
-#EXTINF:-1, SONY1
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/32339
-#EXTINF:-1, SONY MOVIE
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/9715
-#EXTINF:-1, SPACEE
-http://148.222.228.3:9000/play/a00g/index.m3u8
-#EXTINF:-1, SPACE1
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31123
-#EXTINF:-1, STAR CHANNEL
-http://38.44.109.41:8003/play/a012/index.m3u8
-EXTINF:-1, STAR CHANNEL1
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/33980
-#EXTINF:-1, PASIONES
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/446282
-#EXTINF:-1, Adult Swin
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/382510
-#EXTINF:-1, TCM
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31128
-#EXTINF:-1, TNT1
-http://177.234.230.206:8011/play/a0od/index.m3u8
-#EXTINF:-1, TNT
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/322828
-#EXTINF:-1, ESTUDIO UNIVERSAL
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/31124
-#EXTINF:-1, UNIVERSAL CINEMA
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/290135
-#EXTINF:-1, UNIVERSAL chanel
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/314047
-#EXTINF:-1, ultra cine
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/303744
-#EXTINF:-1, ultra clasico
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/303743
-#EXTINF:-1, UNIVERSAL TV
-http://148.222.228.3:9000/play/a09h/index.m3u8
-#EXTINF:-1, WARNER1
-http://app.tecnomolly.com:8080/Chalo/ZmGSWfmewTRg/32510
-#EXTINF:-1, fam In
-http://tv.zapping.life:8080/juankx8812/U9rCEXd5ng/96699
-#EXTINF:-1, fam In2
-http://lite.globaldomain.xyz:8080/andresdomingo568tv/wYHUJUfYMC/96699
-#EXTINF:-1, TITANIC
-http://redworld.pro:8880/movie/hUAFFjcXqDWC/2bGEzEqSEshm/298234.mp4
-#EXTINF:-1, nadie 2
-http://redworld.pro:8880/movie/hUAFFjcXqDWC/2bGEzEqSEshm/445090.mp4
+http://181.224.200.5:2277/play/a01f/index.m3u8
+#EXTINF:-1, STARCHANEL
+http://181.224.200.5:2277/play/a00z/index.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+http://181.224.200.5:2277/play/a01j/index.m3u8
+#EXTINF:-1, Universal
+http://181.224.200.5:2277/play/a0ak/index.m3u8
+#EXTINF:-1, warner
+http://181.224.200.5:2277/play/a01g/index.m3u8
+#EXTINF:-1, obsecion
+https://hugh.cdn.rumble.cloud/video/fww1/af/s8/2/c/J/z/t/cJztA.aaa.mp4
+#EXTINF:-1, skary movie6
+https://hugh.cdn.rumble.cloud/video/fww1/9f/s8/2/e/L/a/u/eLauA.aaa.mp4
 
 
 
