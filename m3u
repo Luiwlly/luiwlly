@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1, LATINA1
-http://miotv.cc:8080/RESTREAMCRUEL/T7464747/237320
+http://rlatinop.com:8880/DigitalService021j/19733559/429011
 #EXTINF:-1, panamericana
-http://181.224.200.5:2277/play/kkio/index.m3u8
+http://rlatinop.com:8880/DigitalService021j/19733559/429020
 #EXTINF:-1, ATV
-http://181.224.200.5:2277/play/3232/index.m3u8
+http://rlatinop.com:8880/DigitalService021j/19733559/429006
 #EXTINF:-1, AMERICA TV
-http://181.224.200.5:2277/play/a0dc/index.m3u8
+http://rlatinop.com:8880/DigitalService021j/19733559/428948
 #EXTINF:-1, AMERICA TV22
 https://live-evg20.tv360.bitel.com.pe/vq-iJdrCR8DnSL1ZdouKlw/1780881462/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 #EXTINF:-1, nickelodeon
@@ -33,11 +33,11 @@ http://168.228.44.241:9998/play/a018/index.m3u8
 #EXTINF:-1, HBO 2
 http://168.228.44.241:9998/play/a017/index.m3u8
 #EXTINF:-1, ESPN2
-http://181.224.200.5:2277/play/a02c/index.m3u8
+http://168.228.44.241:9998/play/a04p/index.m3u8
 #EXTINF:-1, ESPN3
-http://181.224.200.5:2277/play/a02g/index.m3u8
+http://168.228.44.241:9998/play/a03n/index.m3u8
 #EXTINF:-1, ESPN
-http://181.224.200.5:2277/play/aa07/index.m3u8
+http://168.228.44.241:9998/play/a04o/index.m3u8
 #EXTINF:-1, FOX
 http://181.224.200.5:2277/play/a011/index.m3u8
 #EXTINF:-1, golden edge
