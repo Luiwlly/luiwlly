@@ -1,11 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, LATINA1
-http://rlatinop.com:8880/DigitalService021j/19733559/429011
-#EXTINF:-1, UFC
-http://redworld.pro:8880/hUAFFjcXqDWC/2bGEzEqSEshm/533061
-#EXTINF:-1, ATV
-http://rlatinop.com:8880/DigitalService021j/19733559/429006
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8612
+#EXTINF:-1, panamericana
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60234 
 #EXTINF:-1, AMERICA TV
 https://es3-p1-netcdn.bitel.com.pe/netcdn-live-1/primary-1/2178fefc-e426-4b12-a03e-d7df2eb43ca0/america/480p-61468e36-213350.ts?wmkid=0&uid=5484974&timestamp=1782624861&token=ff35224e050fb65971d3ae0d07f7d57d
 #EXTINF:-1, AMERICA TV22
@@ -13,9 +11,11 @@ https://live-evg20.tv360.bitel.com.pe/vq-iJdrCR8DnSL1ZdouKlw/1780881462/bitel/Am
 #EXTINF:-1, TLENOVELAS
 http://181.224.200.5:2277/play/a0d0/index.m3u8
 #EXTINF:-1, nickelodeon
-http://181.224.200.5:2277/play/a0bm/index.m3u8
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10012
+#EXTINF:-1, nickelodeonx
+http://168.228.44.241:9998/play/a0du/index.m3u8
 #EXTINF:-1, CARTOONNEW
-http://168.228.44.241:9998/play/a015/index.m3u8
+http://168.228.44.241:9998/play/a01l/index.m3u8
 #EXTINF:-1, PRIncesas 
 http://rlatinop.com:8880/DigitalService021j/19733559/526422
 #EXTINF:-1, coraje perro cobarde
@@ -23,11 +23,11 @@ http://rlatinop.com:8880/DigitalService021j/19733559/526530
 #EXTINF:-1, bob esponja
 http://redworld.pro:8880/hUAFFjcXqDWC/2bGEzEqSEshm/526326
 #EXTINF:-1, AXN
-http://181.224.200.5:2277/play/a01h/index.m3u8
+http://168.228.44.241:9998/play/a022/index.m3u8
 #EXTINF:-1, Diney
-http://181.224.200.5:2277/play/a014/index.m3u8
+http://168.228.44.241:9998/play/a05n/index.m3u8
 #EXTINF:-1, cinecanal
-http://181.224.200.5:2277/play/a013/index.m3u8
+http://168.228.44.241:9998/play/a04u/index.m3u8
 #EXTINF:-1, HBO EXTREMO
 http://168.228.44.241:9998/play/a0ce/index.m3u8
 #EXTINF:-1, HBO FAMILY
@@ -45,27 +45,26 @@ http://168.228.44.241:9998/play/a03n/index.m3u8
 #EXTINF:-1, ESPN
 http://168.228.44.241:9998/play/a04o/index.m3u8
 #EXTINF:-1, FOX
-http://181.224.200.5:2277/play/a011/index.m3u8
+http://168.228.44.241:9998/play/a02m/index.m3u8
 #EXTINF:-1, golden edge
-http://181.224.200.5:2277/play/a0bd/index.m3u8
+http://168.228.44.241:9998/play/a03u/index.m3u8
+#EXTINF:-1, golden premier2
+http://168.228.44.241:9998/play/a00u/index.m3u8
 #EXTINF:-1, paramount
-http://181.224.200.5:2277/play/a0df/index.m3u8
+http://168.228.44.241:9998/play/a06e/index.m3u8
 #EXTINF:-1, SONY
-http://181.224.200.5:2277/play/a01f/index.m3u8
+http://168.228.44.241:9998/play/a04f/index.m3u8
 #EXTINF:-1, STARCHANEL
-http://181.224.200.5:2277/play/a00z/index.m3u8
+http://168.228.44.241:9998/play/a05o/index.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
-http://181.224.200.5:2277/play/a01j/index.m3u8
+http://168.228.44.241:9998/play/a060/index.m3u8
 #EXTINF:-1, Universal
-http://181.224.200.5:2277/play/a0ak/index.m3u8
+http://168.228.44.241:9998/play/a05w/index.m3u8
+#EXTINF:-1, Universal comedy
+http://168.228.44.241:9998/play/a058/index.m3u8
 #EXTINF:-1, warner
-http://181.224.200.5:2277/play/a01g/index.m3u8
-#EXTINF:-1, obsecion
-https://hugh.cdn.rumble.cloud/video/fww1/af/s8/2/c/J/z/t/cJztA.aaa.mp4
-#EXTINF:-1, skary movie6
-https://hugh.cdn.rumble.cloud/video/fww1/9f/s8/2/e/L/a/u/eLauA.aaa.mp4
-#EXTINF:-1, al filo de la oscuridad
-http://redworld.pro:8880/movie/hUAFFjcXqDWC/2bGEzEqSEshm/284498.mkv
+http://168.228.44.241:9998/play/a0ag/index.m3u8
+
 
 
 
