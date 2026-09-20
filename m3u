@@ -2,8 +2,8 @@
 
 #EXTINF:-1, LATINA1
 https://live-evg20.tv360.bitel.com.pe/kEuzWaOLRIWUZ2M8G_3lhA/1789961877/bitel/Latina-UDP_abr/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=75073
-#EXTINF:-1, panamericana
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60234 
+#EXTINF:-1, ATV
+evg20.tv360.bitel.com.pe/J4cibying6bF9Tv4GhV0rw/1789962021/bitel/Atv-UDP_abr/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=75073
 #EXTINF:-1, AMERICA TV
 https://tr-netcdn.bitel.com.pe/netcdn-live-1/manifest/america/master_clean_source.m3u8?timestamp=1789896792&wmkid=0&token=9b12e8dff5906cd6cafadb7a1997b03a&manifestfilter=video_bitrate:1-4000000&uid=75073
 #EXTINF:-1, AMERICA TV2
