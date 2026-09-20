@@ -5,7 +5,7 @@ http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8612
 #EXTINF:-1, panamericana
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60234 
 #EXTINF:-1, AMERICA TV
-https://live-evg23.tv360.bitel.com.pe/1zRW5wk6gAFeeO40N5VRvg/1789525026/manifest/america/playlist_clean_source_1080p3Mb.m3u8
+https://tr-netcdn.bitel.com.pe/netcdn-live-1/manifest/america/master_clean_source.m3u8?timestamp=1789896792&wmkid=0&token=9b12e8dff5906cd6cafadb7a1997b03a&manifestfilter=video_bitrate:1-4000000&uid=75073
 #EXTINF:-1, AMERICA TV2
 http://redworld.pro:8880/hUAFFjcXqDWC/2bGEzEqSEshm/429002
 #EXTINF:-1, TLENOVELAS
